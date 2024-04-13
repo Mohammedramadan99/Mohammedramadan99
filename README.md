@@ -1,4 +1,4 @@
-## Hey! 👋
+## 👋
 I'm Mohammed, a 24 years old Software Engineer from Egypt.
 
 ## Skills
