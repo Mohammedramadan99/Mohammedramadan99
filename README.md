@@ -4,8 +4,6 @@
 
 ## Software Engineer | Egypt
 
----
-
 ### About Me
 
 Experienced Software Engineer specializing in full-stack web and mobile development. Focused on delivering efficient, scalable, and user-centric solutions using cutting-edge technologies.
