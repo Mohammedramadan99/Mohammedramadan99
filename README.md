@@ -15,7 +15,7 @@ Experienced Software Engineer specializing in full-stack web and mobile developm
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, React Native, Expo
 - **Styling:** CSS, SASS, Tailwind, Material UI, Bootstrap
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, MongoDB
 - **Cloud & DevOps:**
   - AWS: EC2, S3, Amplify
   - Containerization: Docker
