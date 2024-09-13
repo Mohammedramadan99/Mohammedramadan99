@@ -1,31 +1,27 @@
-# Mohammed Elsayed
+# Mohammed Ramadan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/mohammed-ramadan-1374771b7](https://www.linkedin.com/in/mohammed-ramadan-1374771b7/)
 
 ## 👨‍💻 Software Engineer | 🌍 Egypt
 
-Passionate about crafting robust and scalable web and mobile applications. With a keen eye for detail and a love for clean code, I strive to create seamless user experiences through innovative solutions.
+# Mohammed Elsayed
 
-### 🚀 Tech Stack
+Software Engineer | Egypt
 
-```javascript
-const skills = {
-  languages: ['JavaScript', 'TypeScript'],
-  frontend: ['React.js', 'Next.js', 'React Native', 'Expo'],
-  styling: ['CSS', 'SASS', 'Tailwind CSS', 'Material UI', 'Bootstrap'],
-  backend: ['Node.js', 'Express.js'],
-  database: ['MongoDB'],
-  tools: ['Docker', 'Git', 'VS Code']
-};
-```
+---
 
-### 🌟 Highlights
+### About Me
 
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Learning: [Technology or skill you're currently learning]
-- 👯 Open to collaborate on: Innovative web and mobile projects
-- 💬 Ask me about: React, JavaScript, and building scalable applications
+Experienced Software Engineer specializing in full-stack web and mobile development. Focused on delivering efficient, scalable, and user-centric solutions using cutting-edge technologies.
 
-### 📊 GitHub Stats
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, React Native, Expo
+- **Styling:** CSS, SASS, Tailwind, Material UI, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Cloud & DevOps:**
+      AWS: EC2, S3, Amplify
+      Containerization: Docker
