@@ -6,7 +6,7 @@
 
 ### About Me
 
-Experienced Software Engineer specializing in full-stack web and mobile development. Focused on delivering efficient, scalable, and user-centric solutions using cutting-edge technologies.
+A dedicated Software Engineer with a passion for full-stack web and mobile development. I specialize in building efficient, scalable, and user-centric applications using modern technologies. I thrive on solving complex problems and delivering robust solutions that enhance user experience. Continuously learning and adapting to new tools and best practices, I’m committed to creating high-quality, impactful software.
 
 ---
 
