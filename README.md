@@ -1,6 +1,6 @@
 # Mohammed Ramadan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/mohammed-ramadan-1374771b7])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-ramadan-1374771b7)
 
 ## 👨‍💻 Software Engineer | 🌍 Egypt
 
@@ -19,5 +19,5 @@ Experienced Software Engineer specializing in full-stack web and mobile developm
 - **Styling:** CSS, SASS, Tailwind, Material UI, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Cloud & DevOps:**
-      AWS: EC2, S3, Amplify
-      Containerization: Docker
+  - AWS: EC2, S3, Amplify
+  - Containerization: Docker
