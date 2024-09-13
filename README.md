@@ -4,10 +4,6 @@
 
 ## 👨‍💻 Software Engineer | 🌍 Egypt
 
-# Mohammed Elsayed
-
-Software Engineer | Egypt
-
 ---
 
 ### About Me
