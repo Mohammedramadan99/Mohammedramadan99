@@ -1,6 +1,7 @@
 # Mohammed Ramadan
-Software Engineer | Egypt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-ramadan-1374771b7)
+
+# Software Engineer | Egypt
 
 ---
 
