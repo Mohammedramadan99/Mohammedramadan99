@@ -11,7 +11,7 @@ A dedicated Software Engineer with a passion for full-stack web and mobile devel
 
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React.js, Next.js, React Native, Expo
-- **Styling:** CSS, SASS, Tailwind, Material UI, Bootstrap
+- **Styling:** CSS, SASS, Tailwind,Next UI, Shadcn UI, Material UI, Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB
 - **Cloud & DevOps:**
   - AWS: EC2, S3, Amplify
